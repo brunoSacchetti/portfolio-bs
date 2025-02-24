@@ -13,7 +13,7 @@ function App() {
     titulo: "Portfolio Web",
     descripcion: "Portfolio Web moderno y responsivo realizado con React, HTML, CSS y Typescript.",
     imagen: "./ImagenesProyectos/portfolio.jpg",
-    link: "https://github.com/"
+    link: "https://github.com/brunoSacchetti/portfolio-bs"
     },
     {
     titulo: "Sistema Contable",
@@ -147,7 +147,7 @@ function App() {
           <a href="https://github.com/brunoSacchetti" target='_blank'>
             <img src='./github-min.png' alt='github' height={20}></img>
           </a>
-          <a href="https://github.com/brunoSacchetti" target='_blank'>
+          <a href="https://www.linkedin.com/in/bruno-sacchetti/" target='_blank'>
             <img src='./linkedin-min.png' alt='linkedin' height={20}></img>
           </a>
           <a href="https://mail.google.com/mail/?view=cm&to=sacchettibruno03@gmail.com" target='_blank'>
