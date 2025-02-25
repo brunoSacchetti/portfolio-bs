@@ -37,13 +37,13 @@ function App() {
     titulo: "Dashboard Administrativo para El Buen Sabor",
     descripcion: "Plataforma integral que permite a los administradores gestionar de manera eficiente las operaciones del negocio. Incluye la administración de empresas asociadas, sucursales, categorías de productos, insumos, y productos. Además, permite gestionar roles de usuarios y autenticación mediante Auth0 para una seguridad óptima en el inicio de sesión.",
     imagen: "./ImagenesProyectos/dashboard.jpg",
-    link: "https://github.com/"
+    link: "https://github.com/brunoSacchetti/ElBuenSabor-Crud-DashBoard"
     },
     {
-    titulo: "Musical Hendrix",
-    descripcion: "Portfolio Web moderno y responsivo",
-    imagen: "./github.png",
-    link: "https://github.com/"
+    titulo: "Tienda Online de Instrumentos Musicales",
+    descripcion: "Es un e-commerce de instrumentos musicales con un backend en Java/Spring Boot y MySQL, y un frontend en React con TypeScript, HTML y CSS. Permite a los usuarios explorar productos, agregarlos al carrito y pagar con Mercado Pago. Además, cuenta con un sistema de inicio de sesión que define la experiencia del usuario, mostrando pedidos, reportes y gráficos según el rol",
+    imagen: "./ImagenesProyectos/tiendains.jpg",
+    link: "https://github.com/brunoSacchetti/TiendaMusicaFrontend"
     },
     {
     titulo: "Calculadora de Ecuaciones Matematicas",
@@ -53,9 +53,9 @@ function App() {
     },
     {
     titulo: "API desarrollada en SpringBoot",
-    descripcion: "Portfolio Web moderno y responsivo",
-    imagen: "./github.png",
-    link: "https://github.com/"
+    descripcion: "API desarrollada en Spring Boot simulando un CRUD de productos, ventas, clientes. También se incluyen pedidos especiales como por ejemplo: Obtener la lista de productos de una determinada venta u obtener los productos cuya cantidad sea menor a 5.",
+    imagen: "./ImagenesProyectos/api.jpg",
+    link: "https://github.com/brunoSacchetti/ProyectoFinal-Api-TodoCode"
     }
   ]
 
