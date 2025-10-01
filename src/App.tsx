@@ -201,7 +201,7 @@ function App() {
             <img src={proyecto.imagen} alt={proyecto.titulo} loading='lazy'/>
             <h3>{proyecto.titulo}</h3>
             <p>{proyecto.descripcion}</p>
-            <a href={proyecto.link} target="_blank" rel="noopener noreferrer"><img src="./github-project.png" alt=""/>Github</a>
+            <a href={proyecto.link} target="_blank" rel="noopener noreferrer"><img src="/images/github-project.webp" alt=""/>Github</a>
           </article>
         ))}
         </div>
