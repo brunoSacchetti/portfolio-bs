@@ -595,6 +595,7 @@ body{
     flex-direction: column;
     justify-content: space-between;
     background-color: #fff;
+    color: #fff;
     border-radius: 12px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
     padding: 20px;
@@ -632,16 +633,14 @@ body{
 
 /* Imagen dentro de la tarjeta */
 .proyecto img {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-    height: auto;
-    width: 80%;
-    height: 150px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-bottom: 15px;
+  display: block;
+  margin: 0 auto 15px auto;
+  width: 100%;        /* que ocupe el ancho del contenedor */
+  height: 150px;      /* altura fija */
+  object-fit: cover;  /* recorta sin deformar */
+  border-radius: 8px;
 }
+
 
 /* Título del proyecto */
 .proyecto h3 {
