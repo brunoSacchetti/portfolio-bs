@@ -12,69 +12,69 @@ function App() {
     {
     titulo: "Portfolio Web",
     descripcion: "Portfolio Web moderno y responsivo realizado con React, HTML, CSS y Typescript.",
-    imagen: "./images/projects/portfolio.jpg",
+    imagen: "./images/projects/portfolio.webp",
     link: "https://githuprojectsunoSacchetti/portfolio-bs"
     },
     {
     titulo: "Sistema Contable",
     descripcion: "Sistema de registracion de Libro diario y Libro mayor utilizando Blockchain para el almacenamiento de datos con MongoDB y realizado en C#.",
-    imagen: "./images/projects/count.jpg",
+    imagen: "./images/projects/count.webp",
     link: "https://github.com/brunoSacchetti/SistemaContableV1-Aplicacion"
     },
     {
     titulo: "E-Commerce El Buen Sabor",
     descripcion: "El Buen Sabor es una plataforma de e-commerce que ofrece una experiencia culinaria excepcional. Los usuarios pueden explorar el menú, hacer pedidos con facilidad y elegir entre entrega a domicilio o recogida en el local. Contamos con opciones de pago seguras, como Mercado Pago y efectivo. Nuestro enfoque combina tecnología y calidad para garantizar una experiencia satisfactoria desde el pedido hasta el primer bocado.",
-    imagen: "./images/projects/ecommerce1.jpg",
+    imagen: "./images/projects/ecommerce1.webp",
     link: "https://github.com/brunoSacchetti/Ecommerce-ElBuenSabor-V1"
     },
     {
     titulo: "Backend El Buen Sabor",
     descripcion: "Utilizamos Spring Boot para construir un backend eficiente y escalable, con Auth0 para una gestión segura de autenticaciones y autorizaciones. Implementamos Envers para el control de versiones de datos. Además, el sistema genera facturas PDF automáticas y envía correos electrónicos para confirmar pedidos y mantener informados a los clientes. Todo esto garantiza una experiencia confiable, segura y eficiente para el e-commerce.",
-    imagen: "./images/projects/backend-buensabor.jpg",
+    imagen: "./images/projects/backend-buensabor.webp",
     link: "https://github.com/brunoSacchetti/elBuenSaborBackend"
     },
     {
     titulo: "Dashboard Administrativo para El Buen Sabor",
     descripcion: "Plataforma integral que permite a los administradores gestionar de manera eficiente las operaciones del negocio. Incluye la administración de empresas asociadas, sucursales, categorías de productos, insumos, y productos. Además, permite gestionar roles de usuarios y autenticación mediante Auth0 para una seguridad óptima en el inicio de sesión.",
-    imagen: "./images/projects/dashboard.jpg",
+    imagen: "./images/projects/dashboard.webp",
     link: "https://github.com/brunoSacchetti/ElBuenSabor-Crud-DashBoard"
     },
     {
     titulo: "Tienda Online de Instrumentos Musicales",
     descripcion: "Es un e-commerce de instrumentos musicales con un backend en Java/Spring Boot y MySQL, y un frontend en React con TypeScript, HTML y CSS. Permite a los usuarios explorar productos, agregarlos al carrito y pagar con Mercado Pago. Además, cuenta con un sistema de inicio de sesión que define la experiencia del usuario, mostrando pedidos, reportes y gráficos según el rol",
-    imagen: "./images/projects/tiendains.jpg",
+    imagen: "./images/projects/tiendains.webp",
     link: "https://github.com/brunoSacchetti/TiendaMusicaFrontend"
     },
     {
     titulo: "Calculadora de Ecuaciones Matematicas",
     descripcion: "Aplicación desarrollada en C# que permite ingresar ecuaciones matemáticas, ya sean simples o complejas, y las resuelve automáticamente según las reglas matemáticas. La herramienta está diseñada para procesar operaciones como sumas, restas, multiplicaciones, divisiones y más, proporcionando resultados precisos y rápidos.",
-    imagen: "./images/projects/ecuacion.png",
+    imagen: "./images/projects/ecuacion.webp",
     link: "https://github.com/brunoSacchetti/CalculadoraEcuaciones"
     },
     {
     titulo: "API desarrollada en SpringBoot",
     descripcion: "API desarrollada en Spring Boot simulando un CRUD de productos, ventas, clientes. También se incluyen pedidos especiales como por ejemplo: Obtener la lista de productos de una determinada venta u obtener los productos cuya cantidad sea menor a 5.",
-    imagen: "./images/projects/api.jpg",
+    imagen: "./images/projects/api.webp",
     link: "https://github.com/brunoSacchetti/ProyectoFinal-Api-TodoCode"
     }
   ]
 
   // Tecnologias que he utilizado
   const tecnologias : Tecnologia[] = [
-    { nombre: "React", logo: "./images/react.png", link: "https://reactjs.org" },
-    { nombre: "TypeScript", logo: "./images/ts.png", link: "https://www.typescriptlang.org" },
-    { nombre: "Java", logo: "./images/java.png", link: "https://www.java.com/es/" },
-    { nombre: "CSS", logo: "./images/css.png", link: "https://developer.mozilla.org/en-US/docs/Web/CSS" },
-    { nombre: "HTML", logo: "./images/html.png", link: "https://developer.mozilla.org/es/docs/Web/HTML" },
-    { nombre: "Spring Boot", logo: "./images/springboot.png", link: "https://spring.io/projects/spring-boot" },
-    { nombre: "JavaScript", logo: "./images/js.png", link: "https://developer.mozilla.org/es/docs/Web/JavaScript" },
-    { nombre: "SQL", logo: "./images/sql.png", link: "https://aws.amazon.com/es/what-is/sql/" },
-    { nombre: "MongoDB", logo: "./images/mongodb.png", link: "https://www.mongodb.com/" },
-    { nombre: "Postman", logo: "./images/postman.png", link: "https://www.postman.com/" },
-    { nombre: "C#", logo: "./images/csharp.png", link: "https://dotnet.microsoft.com/es-es/languages/csharp" },
-    { nombre: "Figma", logo: "./images/figma.png", link: "https://www.figma.com/" },
-    { nombre: "Git/Github", logo: "./images/github-min.png", link: "https://github.com/" },
-    { nombre: "Docker", logo: "./images/docker.png", link: "https://www.docker.com/" }
+    { nombre: "React", logo: "./images/react.webp", link: "https://reactjs.org" },
+    { nombre: "TypeScript", logo: "./images/ts.webp", link: "https://www.typescriptlang.org" },
+    { nombre: "Java", logo: "./images/java.webp", link: "https://www.java.com/es/" },
+    { nombre: "CSS", logo: "./images/css.webp", link: "https://developer.mozilla.org/en-US/docs/Web/CSS" },
+    { nombre: "HTML", logo: "./images/html.webp", link: "https://developer.mozilla.org/es/docs/Web/HTML" },
+    { nombre: "Spring Boot", logo: "./images/springboot.webp", link: "https://spring.io/projects/spring-boot" },
+    { nombre: "JavaScript", logo: "./images/js.webp", link: "https://developer.mozilla.org/es/docs/Web/JavaScript" },
+    { nombre: "SQL", logo: "./images/sql.webp", link: "https://aws.amazon.com/es/what-is/sql/" },
+    { nombre: "MongoDB", logo: "./images/mongodb.webp", link: "https://www.mongodb.com/" },
+    { nombre: "Postman", logo: "./images/postman.webp", link: "https://www.postman.com/" },
+    { nombre: "C#", logo: "./images/csharp.webp", link: "https://dotnet.microsoft.com/es-es/languages/csharp" },
+    { nombre: "Figma", logo: "./images/figma.webp", link: "https://www.figma.com/" },
+    { nombre: "Git/Github", logo: "./images/github-min.webp", link: "https://github.com/" },
+    { nombre: "Docker", logo: "./images/docker.webp", link: "https://www.docker.com/" }
   ];
 
     
