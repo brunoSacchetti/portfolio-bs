@@ -165,7 +165,7 @@ function App() {
     <section id='quiensoy' className='section-about-me'>
         <h2>Sobre mí</h2>
         <div className='about-me-content'>
-          <img src='./bs-profile.jpg' alt='Bruno Sacchetti'></img>
+          <img src='./images/bs-profile.webp' alt='Bruno Sacchetti'/>
           <div className="about-me-text">
             <p>
               Técnico Superior en Programación con formación en la <strong>Tecnicatura Superior en Programación de la UTN FRM</strong>. 
