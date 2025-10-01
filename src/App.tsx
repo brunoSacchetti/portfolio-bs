@@ -12,69 +12,69 @@ function App() {
     {
     titulo: "Portfolio Web",
     descripcion: "Portfolio Web moderno y responsivo realizado con React, HTML, CSS y Typescript.",
-    imagen: "/src/images/projects/portfolio.webp",
+    imagen: "/images/projects/portfolio.webp",
     link: "https://githuprojectsunoSacchetti/portfolio-bs"
     },
     {
     titulo: "Sistema Contable",
     descripcion: "Sistema de registracion de Libro diario y Libro mayor utilizando Blockchain para el almacenamiento de datos con MongoDB y realizado en C#.",
-    imagen: "/src/images/projects/count.webp",
+    imagen: "/images/projects/count.webp",
     link: "https://github.com/brunoSacchetti/SistemaContableV1-Aplicacion"
     },
     {
     titulo: "E-Commerce El Buen Sabor",
     descripcion: "El Buen Sabor es una plataforma de e-commerce que ofrece una experiencia culinaria excepcional. Los usuarios pueden explorar el menú, hacer pedidos con facilidad y elegir entre entrega a domicilio o recogida en el local. Contamos con opciones de pago seguras, como Mercado Pago y efectivo. Nuestro enfoque combina tecnología y calidad para garantizar una experiencia satisfactoria desde el pedido hasta el primer bocado.",
-    imagen: "/src/images/projects/ecommerce1.webp",
+    imagen: "/images/projects/ecommerce1.webp",
     link: "https://github.com/brunoSacchetti/Ecommerce-ElBuenSabor-V1"
     },
     {
     titulo: "Backend El Buen Sabor",
     descripcion: "Utilizamos Spring Boot para construir un backend eficiente y escalable, con Auth0 para una gestión segura de autenticaciones y autorizaciones. Implementamos Envers para el control de versiones de datos. Además, el sistema genera facturas PDF automáticas y envía correos electrónicos para confirmar pedidos y mantener informados a los clientes. Todo esto garantiza una experiencia confiable, segura y eficiente para el e-commerce.",
-    imagen: "/src/images/projects/backend-buensabor.webp",
+    imagen: "/images/projects/backend-buensabor.webp",
     link: "https://github.com/brunoSacchetti/elBuenSaborBackend"
     },
     {
     titulo: "Dashboard Administrativo para El Buen Sabor",
     descripcion: "Plataforma integral que permite a los administradores gestionar de manera eficiente las operaciones del negocio. Incluye la administración de empresas asociadas, sucursales, categorías de productos, insumos, y productos. Además, permite gestionar roles de usuarios y autenticación mediante Auth0 para una seguridad óptima en el inicio de sesión.",
-    imagen: "/src/images/projects/dashboard.webp",
+    imagen: "/images/projects/dashboard.webp",
     link: "https://github.com/brunoSacchetti/ElBuenSabor-Crud-DashBoard"
     },
     {
     titulo: "Tienda Online de Instrumentos Musicales",
     descripcion: "Es un e-commerce de instrumentos musicales con un backend en Java/Spring Boot y MySQL, y un frontend en React con TypeScript, HTML y CSS. Permite a los usuarios explorar productos, agregarlos al carrito y pagar con Mercado Pago. Además, cuenta con un sistema de inicio de sesión que define la experiencia del usuario, mostrando pedidos, reportes y gráficos según el rol",
-    imagen: "/src/images/projects/tiendains.webp",
+    imagen: "/images/projects/tiendains.webp",
     link: "https://github.com/brunoSacchetti/TiendaMusicaFrontend"
     },
     {
     titulo: "Calculadora de Ecuaciones Matematicas",
     descripcion: "Aplicación desarrollada en C# que permite ingresar ecuaciones matemáticas, ya sean simples o complejas, y las resuelve automáticamente según las reglas matemáticas. La herramienta está diseñada para procesar operaciones como sumas, restas, multiplicaciones, divisiones y más, proporcionando resultados precisos y rápidos.",
-    imagen: "/src/images/projects/ecuacion.webp",
+    imagen: "/images/projects/ecuacion.webp",
     link: "https://github.com/brunoSacchetti/CalculadoraEcuaciones"
     },
     {
     titulo: "API desarrollada en SpringBoot",
     descripcion: "API desarrollada en Spring Boot simulando un CRUD de productos, ventas, clientes. También se incluyen pedidos especiales como por ejemplo: Obtener la lista de productos de una determinada venta u obtener los productos cuya cantidad sea menor a 5.",
-    imagen: "/src/images/projects/api.webp",
+    imagen: "/images/projects/api.webp",
     link: "https://github.com/brunoSacchetti/ProyectoFinal-Api-TodoCode"
     }
   ]
 
   // Tecnologias que he utilizado
   const tecnologias : Tecnologia[] = [
-    { nombre: "React", logo: "/src/images/react.webp", link: "https://reactjs.org" },
-    { nombre: "TypeScript", logo: "/src/images/ts.webp", link: "https://www.typescriptlang.org" },
-    { nombre: "Java", logo: "/src/images/java.webp", link: "https://www.java.com/es/" },
-    { nombre: "CSS", logo: "/src/images/css.webp", link: "https://developer.mozilla.org/en-US/docs/Web/CSS" },
-    { nombre: "HTML", logo: "./src/images/html.webp", link: "https://developer.mozilla.org/es/docs/Web/HTML" },
-    { nombre: "Spring Boot", logo: "/src/images/springboot.webp", link: "https://spring.io/projects/spring-boot" },
-    { nombre: "JavaScript", logo: "/src/images/js.webp", link: "https://developer.mozilla.org/es/docs/Web/JavaScript" },
-    { nombre: "SQL", logo: "/src/images/sql.webp", link: "https://aws.amazon.com/es/what-is/sql/" },
-    { nombre: "MongoDB", logo: "/src/images/mongodb.webp", link: "https://www.mongodb.com/" },
-    { nombre: "Postman", logo: "/src/images/postman.webp", link: "https://www.postman.com/" },
-    { nombre: "C#", logo: "/src/images/csharp.webp", link: "https://dotnet.microsoft.com/es-es/languages/csharp" },
-    { nombre: "Figma", logo: "/src/images/figma.webp", link: "https://www.figma.com/" },
-    { nombre: "Git/Github", logo: "/src/images/github-min.webp", link: "https://github.com/" },
-    { nombre: "Docker", logo: "/src/images/docker.webp", link: "https://www.docker.com/" }
+    { nombre: "React", logo: "/images/react.webp", link: "https://reactjs.org" },
+    { nombre: "TypeScript", logo: "/images/ts.webp", link: "https://www.typescriptlang.org" },
+    { nombre: "Java", logo: "/images/java.webp", link: "https://www.java.com/es/" },
+    { nombre: "CSS", logo: "/images/css.webp", link: "https://developer.mozilla.org/en-US/docs/Web/CSS" },
+    { nombre: "HTML", logo: "/images/html.webp", link: "https://developer.mozilla.org/es/docs/Web/HTML" },
+    { nombre: "Spring Boot", logo: "/images/springboot.webp", link: "https://spring.io/projects/spring-boot" },
+    { nombre: "JavaScript", logo: "/images/js.webp", link: "https://developer.mozilla.org/es/docs/Web/JavaScript" },
+    { nombre: "SQL", logo: "/images/sql.webp", link: "https://aws.amazon.com/es/what-is/sql/" },
+    { nombre: "MongoDB", logo: "/images/mongodb.webp", link: "https://www.mongodb.com/" },
+    { nombre: "Postman", logo: "/images/postman.webp", link: "https://www.postman.com/" },
+    { nombre: "C#", logo: "/images/csharp.webp", link: "https://dotnet.microsoft.com/es-es/languages/csharp" },
+    { nombre: "Figma", logo: "/images/figma.webp", link: "https://www.figma.com/" },
+    { nombre: "Git/Github", logo: "/images/github-min.webp", link: "https://github.com/" },
+    { nombre: "Docker", logo: "/images/docker.webp", link: "https://www.docker.com/" }
   ];
 
     
@@ -123,7 +123,7 @@ function App() {
   return (
     <>
       <header className='header'>
-        <img src="/src/images/logo-bs-sbg.webp" alt="bs-logo" height={90} />
+        <img src="/images/logo-bs-sbg.webp" alt="bs-logo" height={90} />
         
         {/* Boton Hamburguesa Mobile */}
 
@@ -145,13 +145,13 @@ function App() {
         {/* <img src="bs-logo.png" alt="" height={300} /> */}
         <div className='container-descripcion-redes'>
           <a href="https://github.com/brunoSacchetti" target='_blank'>
-            <img src='/src/images/github-min.webp' alt='github' height={20}></img>
+            <img src='/images/github-min.webp' alt='github' height={20}></img>
           </a>
           <a href="https://www.linkedin.com/in/bruno-sacchetti/" target='_blank'>
-            <img src='/src/images/linkedin-min.webp' alt='linkedin' height={20}></img>
+            <img src='/images/linkedin-min.webp' alt='linkedin' height={20}></img>
           </a>
           <a href="https://mail.google.com/mail/?view=cm&to=sacchettibruno03@gmail.com" target='_blank'>
-            <img src='/src/images/email-min.png' alt='Enviar correo' height={20}></img>
+            <img src='/images/email-min.png' alt='Enviar correo' height={20}></img>
           </a>
         </div>
         <div className="divider">
@@ -165,7 +165,7 @@ function App() {
     <section id='quiensoy' className='section-about-me'>
         <h2>Sobre mí</h2>
         <div className='about-me-content'>
-          <img src='/src/images/bs-profile.jpg' alt='Bruno Sacchetti' loading='lazy'/>
+          <img src='/images/bs-profile.jpg' alt='Bruno Sacchetti' loading='lazy'/>
           <div className="about-me-text">
             <p>
               Técnico Superior en Programación con formación en la <strong>Tecnicatura Superior en Programación de la UTN FRM</strong>. 
@@ -180,7 +180,7 @@ function App() {
             <p>Busco seguir creciendo en entornos dinámicos e innovadores.</p>
           </div>
         </div>
-        <a href="/src/cv/CV-BRUNO SACCHETTI-2025.pdf" download className="btn-cv">
+        <a href="/cv/CV-BRUNO SACCHETTI-2025.pdf" download className="btn-cv">
           Descargar CV
         </a>
     <div className="divider">
@@ -287,7 +287,7 @@ function App() {
     <footer className="footer">
       <div className="footer-content">
         {/* Logo */}
-          <img src="./logo-bs-sbg.png" alt="Logo" className="footer-logo-img" />
+          <img src="/images/logo-bs-sbg.webp" alt="Logo" className="footer-logo-img" />
       </div>
 
       {/* Derechos de autor */}
