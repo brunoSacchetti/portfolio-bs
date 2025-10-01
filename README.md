@@ -1,10 +1,10 @@
 # 🚀 Portfolio de Bruno Sacchetti
-Bienvenido a mi portfolio, donde podrás conocer más acerca de mi trabajo como Desarrollador Web Fullstack. Aquí te presento una muestra de mis proyectos más destacados, donde utilizo tecnologías modernas y soluciones innovadoras para resolver desafíos digitales.
+Bienvenido a mi portfolio, donde podrás conocer más acerca de mi trabajo como Desarrollador Web. Aquí te presento una muestra de mis proyectos más destacados, donde utilizo tecnologías modernas y soluciones innovadoras para resolver desafíos digitales.
 
 ¡Vamos a construir algo increíble juntos!
 
 # 🧑‍💻 Sobre mí
-Soy un Desarrollador Web Fullstack con un enfoque en backend y frontend. Tengo experiencia construyendo soluciones escalables y dinámicas utilizando tecnologías como React, Node.js, Spring Boot, entre otras. Además, tengo un enfoque claro en la calidad del código, el aprendizaje constante y la capacidad para adaptarme a diferentes entornos de trabajo.
+Soy un Desarrollador Web con un enfoque en backend. Tengo experiencia construyendo soluciones escalables y dinámicas utilizando tecnologías como React, Java, Spring Boot, entre otras. Además, tengo un enfoque claro en la calidad del código, el aprendizaje constante y la capacidad para adaptarme a diferentes entornos de trabajo.
 
 ¿Qué me motiva?
 
