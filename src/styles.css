@@ -97,7 +97,7 @@ body{
     /* background: linear-gradient(135deg, #2c3e50, #34495e); */
     /* border-bottom: rgb(64, 82, 102) solid 0.1px; */
     color: white;
-    position: relative;
+    position: fixed;
     z-index: 1000;
 }
   
